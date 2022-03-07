@@ -15,4 +15,4 @@ Simply delete the folder from your "Community" folder.
 ## Changelog
 
 ### v1.0
-- Initial version
+- Initial version - forked from clompsy/msfs_nameplates (https://github.com/clompsy/msfs_nameplates)
