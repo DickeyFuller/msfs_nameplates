@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "fs-base-ui",
+      "package_version": "0.1.10"
+    }
+  ],
+  "content_type": "CUSTOM",
+  "title": "df-nameplates",
+  "manufacturer": "",
+  "creator": "coppersens",
+  "package_version": "2.3.0",
+  "minimum_game_version": "1.23.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000005037"
+}
